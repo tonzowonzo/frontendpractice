@@ -1,0 +1,30 @@
+p {
+  font-size: 40px;
+  line-height: 15px;
+  color: blue;
+  font-family: sans-serif;
+}
+
+header {
+  font-size: 40px;
+  line-height: 15px;
+  color: CadetBlue;
+  background-color: gray;
+  height: 80px;
+  text-align: center;
+  margin: 80px;
+}
+
+#practice {
+  font-size: 20px;
+  color: green;
+}
+
+body {
+  background-color: black;
+}
+
+li {
+  color: white;
+  list-style-type: circle;
+}
