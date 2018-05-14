@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css?family=Oswald");
+
+#main-bar {
+  width: 100%;
+  background-color: #3D3533;
+}
+
+#nav-items {
+  text-align: right;
+  margin-right: 80px;
+}
+
+
+
+#middle-col {
+  background-color: blue;
+}
+
+.column {
+  float: left;
+}
+
+.left, .right {
+  width: 2%;
+  background-color: green;
+}
+
+.middle {
+  width: 95%;
+  background-color: #859994;
+  font-size: 80px;
+}
+
+.three-cols {
+  width: 100%;
+  padding: 35px;
+  margin: 20px;
+}
+
+body {
+  background-color: green;
+  color: #E6E8FA;
+}
+
+hr {
+  border-width: 5px;
+  background-color: #E6E8FA;
+  width: 75%;
+}
+
+.intro-text {
+  text-align: center;
+}
+.initial-text {
+  font-size: 20px;
+  margin-top: 40px;
+}
+
+.summary-text {
+  font-size: 30px;
+  margin-bottom: 40px;
+}
+
+.portrait {
+  border-radius: 50%;
+  width: 30%;
+  margin-bottom: 50px;
+}
+
+.portfolio {
+  background-color: #E6E8FA;
+  color: #859994;
+  margin: 0px;
+  text-align: center;
+}
+
+.dark-hr {
+  background-color: #E6E8FA;
+}
+
+.whitehr {
+  background-color: #859994;
+}
+
+img {
+  width: 80%;
+  padding: 40px;
+}
+
+.contact {
+  background-color: #859994;
+  color: #E6E8FA;
+  text-align: center;
+}
+
+footer {
+  background-color: #3D3533;
+  padding: 20px;
+  margin-top: -55px;
+  height: 60px;
+  color: #007bff;
+}
