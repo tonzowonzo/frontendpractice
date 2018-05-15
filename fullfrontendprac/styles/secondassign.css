@@ -22,13 +22,13 @@
 
 .left, .right {
   width: 2%;
-  background-color: green;
+  background-color: #69B1BF;
 }
 
 .middle {
   width: 95%;
   background-color: #859994;
-  font-size: 80px;
+  font-size: 32px;
 }
 
 .three-cols {
@@ -38,7 +38,7 @@
 }
 
 body {
-  background-color: green;
+  background-color: #69B1BF;
   color: #E6E8FA;
 }
 
@@ -63,8 +63,8 @@ hr {
 
 .portrait {
   border-radius: 50%;
-  width: 30%;
-  margin-bottom: 50px;
+  width: 55%;
+  margin-bottom: 5%;
 }
 
 .portfolio {
@@ -95,8 +95,27 @@ img {
 
 footer {
   background-color: #3D3533;
-  padding: 20px;
   margin-top: -55px;
   height: 60px;
   color: #007bff;
+  width: 100%;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.social-links {
+  text-align: center;
+}
+
+
+.social {
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-right: 30px;
+  text-align: center;
+}
+
+#contact-form {
+  color: #E6E8FA;
 }
