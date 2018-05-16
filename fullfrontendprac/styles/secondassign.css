@@ -110,12 +110,26 @@ footer {
 
 
 .social {
-  padding-left: 20px;
-  padding-right: 20px;
-  margin-right: 30px;
+  padding-left: 5px;
+  padding-right: 5px;
   text-align: center;
 }
 
 #contact-form {
   color: #E6E8FA;
 }
+
+input {
+  display: inline-block;
+  float: center; 
+  width: 50%;
+  background-color: #E6E8FA;
+}
+
+textarea {
+  color: gray;
+  width: 50%;
+  background-color: #E6E8FA;
+  
+}
+
